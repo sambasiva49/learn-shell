@@ -5,3 +5,4 @@
 
 ### how to write script 
 ### print
+### samba commit and push 
