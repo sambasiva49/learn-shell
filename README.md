@@ -6,3 +6,4 @@
 ### how to write script 
 ### print
 ### samba commit and push 
+1.my name is samba
