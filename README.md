@@ -1,6 +1,6 @@
 # learn-shell
 
-#hello github world 
+#hello gitHub world 
 ### here are the topics
 
 ### how to write script 
