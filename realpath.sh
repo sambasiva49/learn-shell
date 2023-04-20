@@ -1,4 +1,5 @@
 
 
 #realpath "$1"
-echo {dirname realpath "$*"}
+var=dirname realpath "$*"
+echo $var
