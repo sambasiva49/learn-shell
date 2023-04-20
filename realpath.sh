@@ -1,3 +1,4 @@
 
 
-realpath "$1"
+#realpath "$1"
+dirname
