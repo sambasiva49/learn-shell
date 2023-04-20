@@ -1,4 +1,4 @@
 
 
 #realpath "$1"
-dirname
+dirname realpath "$0"
