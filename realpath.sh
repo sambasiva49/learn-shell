@@ -1,1 +1,3 @@
-realpath my.txt
+
+
+realpath "$0"
