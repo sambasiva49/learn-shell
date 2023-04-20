@@ -1,3 +1,3 @@
 
 
-realpath "$0"
+realpath "$1"
